@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CLIENT_ID</key>
+  <string>620571024230-oegr2b511ls0kc122jpm7gq2tk618pfb.apps.googleusercontent.com</string>
+  <key>REVERSED_CLIENT_ID</key>
+  <string>com.googleusercontent.apps.620571024230-oegr2b511ls0kc122jpm7gq2tk618pfb</string>
+  <key>API_KEY</key>
+  <string>AIzaSyD2UFK5MV52WYAprvSewvDm-RLSnv4dHpo</string>
+  <key>GCM_SENDER_ID</key>
+  <string>620571024230</string>
+  <key>PLIST_VERSION</key>
+  <string>1</string>
+  <key>BUNDLE_ID</key>
+  <string>com.iniobot.flashchat</string>
+  <key>PROJECT_ID</key>
+  <string>flashchat-e11e9</string>
+  <key>STORAGE_BUCKET</key>
+  <string>flashchat-e11e9.appspot.com</string>
+  <key>IS_ADS_ENABLED</key>
+  <false></false>
+  <key>IS_ANALYTICS_ENABLED</key>
+  <false></false>
+  <key>IS_APPINVITE_ENABLED</key>
+  <true></true>
+  <key>IS_GCM_ENABLED</key>
+  <true></true>
+  <key>IS_SIGNIN_ENABLED</key>
+  <true></true>
+  <key>GOOGLE_APP_ID</key>
+  <string>1:620571024230:ios:e77bbf03181bedc12286a7</string>
+</dict>
+</plist>
+
+<!--<!--<?xml version="1.0" encoding="UTF-8"?>-->-->
+<!--<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">-->
+<!--<plist version="1.0">-->
+<!--<dict>-->
+<!--	<key>CLIENT_ID</key>-->
+<!--	<string>799979974351-mouh1dvd9evi7o860b24qlves7br63dn.apps.googleusercontent.com</string>-->
+<!--	<key>REVERSED_CLIENT_ID</key>-->
+<!--	<string>com.googleusercontent.apps.799979974351-mouh1dvd9evi7o860b24qlves7br63dn</string>-->
+<!--	<key>API_KEY</key>-->
+<!--	<string>AIzaSyDSgkrJRWXqfC1Yh06wGn-IfyjzMF_nF0Y</string>-->
+<!--	<key>GCM_SENDER_ID</key>-->
+<!--	<string>799979974351</string>-->
+<!--	<key>PLIST_VERSION</key>-->
+<!--	<string>1</string>-->
+<!--	<key>BUNDLE_ID</key>-->
+<!--	<string>com.sebas.Flash-Chat</string>-->
+<!--	<key>PROJECT_ID</key>-->
+<!--	<string>flash-chat-9f58a</string>-->
+<!--	<key>STORAGE_BUCKET</key>-->
+<!--	<string>flash-chat-9f58a.appspot.com</string>-->
+<!--	<key>IS_ADS_ENABLED</key>-->
+<!--	<false></false>-->
+<!--	<key>IS_ANALYTICS_ENABLED</key>-->
+<!--	<false></false>-->
+<!--	<key>IS_APPINVITE_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>IS_GCM_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>IS_SIGNIN_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>GOOGLE_APP_ID</key>-->
+<!--	<string>1:799979974351:ios:98ea1e1b0f4ff390a9d1ba</string>-->
+<!--</dict>-->
+<!--</plist>-->
+<!---->
